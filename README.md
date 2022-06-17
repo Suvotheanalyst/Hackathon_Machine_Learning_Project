@@ -25,7 +25,7 @@ Accuracy= (TP+TN)/(TP+TN+FP+FN)
 
 Submission File Format:
 
-You are to submit a CSV file with exactly 2630 entries plus a header row. The file should have exactly two columns
+CSV file with exactly 2630 entries plus a header row. The file should have exactly two columns
 
 1.      EmployeeID (sorted in any order)
 2.      Attrition
